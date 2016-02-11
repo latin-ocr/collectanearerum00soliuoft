@@ -1,0 +1,48 @@
+LIBRI ADHIBITI
+
+classis primae:
+R = Vaticanus 3342 saec. X (deficit p. 197, 2-202, 14. 203, 14-216)
+[R] = Vaticanus reginae 1875 saec. XIV descriptus ex R, collatus
+ubi is deficit3 ipse finit p. 214, 4
+C = Casinas 391 saec.. XI
+N= Havniensis 444 saec. XI
+
+11 = Heidelbergensis saec. XI
+*H = idem et Anonymus Leidensis Voss. fol. 113 consentientes
+
+[H] = Heidelbergensis ab Anonymo Leidensi dissentiens
+
+classis secundae:
+L = Leidensis Voss. quart. 87 saec. IX (deficit p.194‚ 15)
+
+[L] = eiusdem libri supplementum saec. XIII (incipit p. 191, 15)
+M = Parisinus 7230 saec. X corruptus vel deficiens inde a p. 174, 12
+Q = Parisinus 7230A saec. X conatus ibi ubi deficit M
+G = Guelferbytanus Gudianus 163 saec. X inde a p. 28, 15
+B = Basileensis F 1133 saec. XIV hic illic adhibitus
+
+classis tertiae:
+S = Sangallensis 187 saec. X
+A = Angelomontanus saec. X (deficit p. 60, 20—63‚ 2. 163, 10-166, 5)
+F = Florentinus Laurentianus S. Crucis 20 sin. 2 saec. XIJXIL colla-
+tus ibi ubi deficit Α
+P = Parisinus 6810 saec. X
+
+Libri reliqui adhibiti p. 7. 8. 14-16, 22—24. 30. 117.118. 139. 140.150. 151.
+164. 207-216 designantur numeris iis quos habent in recensu (infra
+p. XXX - LII. LVI. LVII)
+
+ιι b minusculae litterae adiectae ad codicis notam significant lectionem a
+prima manu positam (a), deinde emendatam ab eadem (b); altera utra
+ubi sola ponitur, lectio quae non ponitur consentit cum textu
+
+1. 2 minusculi numeri similiter adiecti ad codicis notam significant lectio-
+nem a prima manu positam (1), deinde emendatam a manu diversa (2)
+
+t v minusculae litterae similiter adiectae distinguunt duas lectiones in
+codice reperiri, alteram in textu (t),⁴ alteram pro varia lectione (v)
+
+asterisco in textu notavimus locos emendatos coniectura.
+
+ 
+
